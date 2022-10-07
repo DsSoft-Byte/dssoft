@@ -1,0 +1,8 @@
+Origin: Hacki's Repo
+Label: Hacki's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Hacki's Repo - All you Need
