@@ -37,7 +37,7 @@ function showMessage(response) {
     yesMessage.textContent = "LESGOOO see you on the 14th😘😘";
     yesMessage.style.display = "block";
     yesMessage.style.fontStyle = "normal";
-    document.getElementsByClassName("image")[0].src = "images/dance.gif";
+    document.getElementsByClassName("image")[0].src = "images/catflower.gif";
 
     // Remove yes button
     document.getElementById("yesButton").remove();
